@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by the Kings forces in the West of England at the lsland of Silley. And the full particulars of the great and bloudy fight between the Parliaments forces and the Cavaleers, with the manner how they surprised the said island, and took prisoners, Colonell Butler, the governour. One major. Two captains. And divers other inferiour officers. One troop of horse, great store of money and rich apparell. And all their ordnance, arms and ammunition. Also, another bloudy fight at Scarborough castle in York-shire, between the Kings forces, and the Parliament, upon their sallying out of the castle, and surprizing their guards, and the number killed and taken prisoners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85645</idno>
+            <idno type="STC">Wing G1783</idno>
+            <idno type="STC">Thomason E468_30</idno>
+            <idno type="STC">ESTC R205401</idno>
+            <idno type="EEBO-CITATION">99864797</idno>
+            <idno type="PROQUEST">99864797</idno>
+            <idno type="VID">162346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by the Kings forces in the West of England at the lsland of Silley. And the full particulars of the great and bloudy fight between the Parliaments forces and the Cavaleers, with the manner how they surprised the said island, and took prisoners, Colonell Butler, the governour. One major. Two captains. And divers other inferiour officers. One troop of horse, great store of money and rich apparell. And all their ordnance, arms and ammunition. Also, another bloudy fight at Scarborough castle in York-shire, between the Kings forces, and the Parliament, upon their sallying out of the castle, and surprizing their guards, and the number killed and taken prisoners.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 23th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scilly, Isles of --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162346:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY Obtained by the KINGS FORCES In the Weſt of ENGLAND At the Iſland of <hi>SILLEY.</hi>
+            </p>
+            <p>And the full particulars of the great and bloudy Fight be<g ref="char:EOLhyphen"/>tween the Parliaments Forces and the Cavaleers, with the manner how they ſurpriſed the ſaid Iſland, and took Priſoners,
+<list>
+                  <item>Colonell <hi>Butler,</hi> the Gover<g ref="char:EOLhyphen"/>nour.</item>
+                  <item>One Major.</item>
+                  <item>Two Captains. And Divers other inferiour Officers.</item>
+                  <item>One Troop of Horſe,</item>
+                  <item>Great ſtore of Money and rich Apparell.</item>
+                  <item>And all their Ordnance, Arms and Ammunition.</item>
+               </list>
+            </p>
+            <p>ALSO, Another bloudy Fight at <hi>Scarbrough</hi> Caſtle in <hi>York-ſhire,</hi> between the Kings Forces, and the Parliaments, upon their ſallying out of the Caſtle, and ſurprizing their Guards, and the number killed and taken priſoners.</p>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162346:2"/>
+            <pb n="1" facs="tcp:162346:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>HIS MAJESTIES LETTER To the Earl of WARWICK</head>
+                  <opener>
+                     <dateline>Dated at <hi>Newport,</hi> 
+                        <date>Octob. 19. 1648.</date>
+                     </dateline>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">H</seg>Is Majeſties preſent Conceſſions with the Commiſſioners, doth plainly manifeſt his candid intentions, and reall reſolu<g ref="char:EOLhyphen"/>tions for <hi>peace;</hi> and therefore deſires, that the Ear of Loyalty, and the heart of Obedience, may be ready to receive his gracious promiſes and Condeſcentions, for a generall <hi>peace</hi>
+                     <pb n="2" facs="tcp:162346:3"/>throughout his Realms and Dominions, promiſing up<g ref="char:EOLhyphen"/>on his Royall Word to leave no meanes unattempted for the peace and liberty of his people; and for the better faciliating of the preſent work in hand, his Ma<g ref="char:EOLhyphen"/>jeſty deſires that (during the time of the Treaty) there may be ceſſation of Arms, and all acts of Hoſtility whatſoeuer, both by Sea and Land, and that no Mari<g ref="char:EOLhyphen"/>ners or Sea-men, either upon the Coaſt of <hi>England,</hi> or elſe where, might plead ignorance thereof, his Majeſty ſent a Letter to the Earl of <hi>Warwick,</hi> purporting,</p>
+                  <p>
+                     <hi>That his Majeſty earnestly deſires to put a ſpeedy pe<g ref="char:EOLhyphen"/>riod to the unhappy differences of his bleeding King<g ref="char:EOLhyphen"/>domes; requiring all true ſubjects to lay their hands up<g ref="char:EOLhyphen"/>on their hearts, and to endeavour the propagating of this bleſsed Treaty, deſiring his Lordſhip to be inſtrumentall therein, and to ſheath the ſword at Sea, during the ſaid term of time, by giving Expreſse Orders to the reſpective Captains aboard the Fleet, to forbear any further Acts of Hostility againſt the Princes Navy, till they have fur<g ref="char:EOLhyphen"/>ther Orders from his Lordſhip.</hi>
+                  </p>
+                  <p>His Majeſty in the ſaid Letter) likewiſe intimated that he had given the ſame directions to his Sonne the Prince of <hi>Wales,</hi> having ſent a Letter unto him, where<g ref="char:EOLhyphen"/>by he may underſtand the will and pleaſure of his Majeſty.</p>
+                  <p>This morning here arrived a meſſenger from the Iſle of <hi>Silley,</hi> who purports very ſad newes from thence, <hi>viz.</hi>
+                  </p>
+                  <p>That the Souldiery in that Iſland have declared for the <hi>King,</hi> ſecured the Caſtle and Fort, and ſeized upon all the Ordnance, Armes and Ammunition, but not
+<pb n="3" facs="tcp:162346:3"/>without loſſe; for upon notice of their combination and confederacy, about 200 of the well-affected Iſlanders gathered to a head in the night time, and ſent a meſſenger to col. <hi>Butler</hi> (the Governour) the next morning, to advertize him thereof, and to ſend ſome more aid unto them; but the meſſenger being inter<g ref="char:EOLhyphen"/>cepted, their deſign were diſcovered, and a party of Horſe and Foot were forthwith ſent out to ſuppreſſe them, which cauſed ſome action, both parties bodying, who diſputed the place with great reſoluteneſſe and gallantry, for the ſpace of half an hour; but the Iſlan<g ref="char:EOLhyphen"/>ders being overpowred were forced to retreat, the Sol<g ref="char:EOLhyphen"/>diery purſued them to the very clifs of the Sea, killed ten of them, and took above 50 priſoers, the reſt eſca<g ref="char:EOLhyphen"/>ped away in long Boats.</p>
+                  <p>During which conflict, another party of the Revol<g ref="char:EOLhyphen"/>ters haſtned to the Governours quarters, but miſſing of him, made towards the Church, where they fell upon Col. <hi>Butler,</hi> and his party, and after many deſperate &amp; combatant blows, diſarmed the Colonell, one Major, two Captains and ſome other inferiour Officers, and drag'd them by the hair of the head to the chiefe Fort, vowing to cut their throats.</p>
+                  <p>They have alſo broken open their lodging roomes, and plundered them of all their monies, cloaths, and armes, and ſaith, <hi>That they ſhall lie and rot in the darke Dungeons, if they wil not declare for the King:</hi> this ſtrikes terrour to the well affected, much lamenting the loſſe of ſo conſiderable a place, the enemy having poſſeſſed themſelves of 20 piece of Ordnance, 400. arms, 15 Tun of Match, 20 Barrels of powder, and a Troop of Horſe.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Newport</hi> 
+                        <date>21 <hi>Octob.</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:162346:4"/>
+                  <head>New propoſitions from the undanted Independents.</head>
+                  <p>Letters from the <hi>Army</hi> ſay, that their hearts are of known integrity and faithfulneſſe, both towards <hi>King, City, and Country,</hi> and are reſolved to ſee the <hi>King</hi> inveſted, the <hi>Kingdom</hi> ſetled, and the Liberties &amp; Fran<g ref="char:EOLhyphen"/>chiſes of the City of <hi>London</hi> firmly preſerved and maintained, without any violation whatſoever; and as a teſtimony of their fidelity, have declared that they will uſe their utmoſt endeavours for the compoſing of all differences, and inthroning of the <hi>King</hi> in his Royal Throne at <hi>Westminster,</hi> and unite Him with His great Councell of <hi>England,</hi> which God grant may ſpeedily be effected. This is the ſenſe of many in the <hi>Army,</hi> al<g ref="char:EOLhyphen"/>though divers objects againſt the ſame; eſpecially the Northern party, and their Adherents, who have preſen<g ref="char:EOLhyphen"/>ted their <hi>Remonſtrance</hi> and <hi>Deſires</hi> to both Houſes, as followeth.</p>
+                  <p>Humbly deſiring, That Juſtice may be impartially and ſpeedily executed upon the grand Delinquents o the <hi>Kingdomes,</hi> eſpecially ſuch as have been the onely promoters of this laſt Rebellion, who are traytors by the Law of the Land, and ought to be made exemplary without partiality, there being no exception therein to excuſe any particular perſon (though the higheſt and greateſt Incendiary and Delinquent) from Juſtice, who have confeſſed themſelves guilty of all the bloud, ra<g ref="char:EOLhyphen"/>pine, murther, &amp; almoſt utter ruine of theſe three poor dying, and laſt gaſping <hi>Kingdoms,</hi> with whom a Treaty muſt be had when they are twice conquered, and when God hath delivered them up into the hands of his peo<g ref="char:EOLhyphen"/>ple, to the end Juſtice may be executed on them, and
+<pb n="5" facs="tcp:162346:4"/>their lives ſacrificed as traytors to all future Genera<g ref="char:EOLhyphen"/>tion. Further remonſtrating and declaring, that with unexpreſſible grief of heart, they find the affections of <hi>Parliament</hi> alienated from them, in ſlighting their juſt and lawfull addreſſes, thinking them not worthy of an anſwer thereunto, whereby they conceive themſelves in the capacity of enemies, or not free men, which will juſtly challenge the ſame from them, as being their Deputies and Truſtees, or elſe petitioning for things unjuſt, though they know they are according to their ſolemn League and Covenant, and their own procee<g ref="char:EOLhyphen"/>dings and printed Declarations, upon which they inga<g ref="char:EOLhyphen"/>ged with them, and for them; and without which, we ſhould never have drawn a ſword the ſecond time in their quarrel. And declare, that if their intentions fur<g ref="char:EOLhyphen"/>ther appear (as they have too much of late) to ſide with, and act for their enemies, and againſt the intereſt of them, and all the free Commons of <hi>England,</hi> in ma<g ref="char:EOLhyphen"/>king their enemies and conquered ſlaves to be their maſters and commanders, they muſt look to and de<g ref="char:EOLhyphen"/>pend upon the law of nature for their preſervation a<g ref="char:EOLhyphen"/>gainſt thoſe divelliſh and malignant principle, to which they declare themſelves open enemies, and reſolve to he utmoſt of their abilities to oppoſe, with the loſſe of lives and fortunes. Proteſting, ſtill to keep their firſt integrity without ſpot or blemiſh, and not bow their knee to <hi>Baal</hi> at the <hi>Kings</hi> Command, neither at the <hi>Par<g ref="char:EOLhyphen"/>iaments,</hi> and that if they act againſt the truth repoſed in them by the people, the people are bound in conſci<g ref="char:EOLhyphen"/>ence and duty to act againſt them, <hi>Salus populi</hi> being <hi>Suprema Lex.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:162346:5"/>
+                  <head>A bloudy Fight at Scarbrough Castle,</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>ON Munday laſt the Beſieged in Scarbrough Ca<g ref="char:EOLhyphen"/>ſtle ſallied out upon our Forces, who by the neg<g ref="char:EOLhyphen"/>ligence of three Centinels, ſurprized one of our guards unawares, killed 5 of our men, took about 30 priſo<g ref="char:EOLhyphen"/>ners, and wounded may; this ſudden Onſet allarums the horſe guards, wherupon Col. <hi>Bethel</hi> advances, charging the enemy with one troop of horſe, fell in amongſt them, reſcued the priſoners, killed nine of the enemy, the reſt retreated, Col. <hi>Bethel</hi> purſues, and chaſed them to the very Gates, took, 14 priſoners, and made good his retreat with the loſſe of one man.</p>
+                  <p>
+                     <hi>Beverley</hi> 18. <hi>Octob.</hi> 1648.</p>
+                  <p>And it is further advertized from the Kingdome of <hi>Scotland,</hi> that the Earl of <hi>Lanerick</hi> is gone to the Prince to adviſe with his Highneſſe, touching the diſpoſall of the Fleet, and to invite them into the North Road, if poſſible to eſcape the Earl of <hi>Warwicks</hi> Navy. And it is ſaid, that divers Agents are ſent from <hi>France,</hi> and o<g ref="char:EOLhyphen"/>ther places, to treat with the States of <hi>Holland,</hi> for a conjunction between <hi>Vantrump</hi> (Admiral of the <hi>Dutch</hi> Fleet) and the Prince of <hi>Wales.</hi> But the States diſap<g ref="char:EOLhyphen"/>prove thereof, and have declared againſt the ſame.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
